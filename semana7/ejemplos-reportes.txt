@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Transporte",
+  "descripcion": "Semáforo dañado en intersección principal"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Servicios públicos",
+  "descripcion": "Corte de agua prolongado en el barrio"
+}

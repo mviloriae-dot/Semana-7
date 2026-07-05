@@ -1,0 +1,4 @@
+Cuando consultas la ruta GET /reportes, el servidor responde con la lista de incidencias 
+registradas en formato JSON, mostrando cada reporte con su identificador, tipo y descripción. Esto
+significa que la plataforma está funcionando correctamente y que los ciudadanos pueden acceder
+a la información de manera organizada. 
